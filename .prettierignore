@@ -1,0 +1,23 @@
+# Ignore built files and dependencies
+node_modules/
+build/
+dist/
+
+# Ignore Cypress reports and logs
+cypress/screenshots/
+cypress/videos/
+cypress/reports/
+cypress/logs/
+
+# Ignore environment files
+.env
+.env.local
+.env.*.local
+
+# Ignore specific configuration or temporary files
+*.lock
+*.log
+
+# Ignore any files that don't need formatting
+package-lock.json
+yarn.lock
