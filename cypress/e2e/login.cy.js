@@ -1,3 +1,4 @@
+// Código feito por Frederico Pitol
 describe('Testes de Login', () => {
   beforeEach(() => {
     cy.visit(Cypress.env('url'));

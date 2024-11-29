@@ -1,3 +1,4 @@
+// Código feito por Carlos Abraão
 describe('Testes de navegação', () => {
   beforeEach(() => {
     cy.visit('https://automationteststore.com');

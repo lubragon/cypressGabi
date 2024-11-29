@@ -1,3 +1,4 @@
+// Código feito por Natan Depes
 describe('Testes de funcionalidade de câmbio', () => {
   const currencies = {
     EUR: '€ Euro',

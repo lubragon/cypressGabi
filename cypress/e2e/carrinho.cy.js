@@ -1,3 +1,4 @@
+// Código feito por Lucas Bragança
 describe('Testes de usabilidade do carrinho', () => {
   beforeEach(() => {
     cy.visit('https://automationteststore.com');
